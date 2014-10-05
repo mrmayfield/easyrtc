@@ -95,7 +95,7 @@ Folder Structure
 Included Demos
 --------------
 
-EasyRTC comes with a number of demo's which work immediately after installation.
+EasyRTC comes with a number of demos which work immediately after installation.
 
  * Video and/or Audio connections
  * Multi-party video chat
